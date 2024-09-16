@@ -1,0 +1,1 @@
+to dla pozostałych
