@@ -1,12 +1,12 @@
 {
     "ctStarts": 1,
     "whenLastStart": "2024-09-16T09:43:55.449Z",
-    "ctHits": 8,
-    "ctHitsToday": 8,
-    "ctHitsSinceStart": 8,
-    "whenLastHit": "2024-09-16T09:52:03.071Z",
+    "ctHits": 11,
+    "ctHitsToday": 11,
+    "ctHitsSinceStart": 11,
+    "whenLastHit": "2024-09-16T09:56:21.037Z",
     "hitsByDomain": {
-        "localhost.vmajster.eu": 6,
-        "localhost": 2
+        "localhost.vmajster.eu": 7,
+        "localhost": 4
     }
 }
